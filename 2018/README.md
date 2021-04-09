@@ -5,8 +5,8 @@ Solutions to Advent of Code 2018 puzzles: https://adventofcode.com/2018.
 What is each day about?
 - `01`: evaluating expression, finding first duplicate occurence
 - `02`: counting letters in string, finding strings differing by single character
-- `03`:
-- `04`:
+- `03`: overlapping rectangles in 2d grid
+- `04`: most common time in list of time intervals
 - `05`:
 - `06`:
 - `07`:
