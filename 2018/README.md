@@ -7,7 +7,7 @@ What is each day about?
 - `02`: counting letters in string, finding strings differing by single character
 - `03`: overlapping rectangles in 2d grid
 - `04`: most common time in list of time intervals
-- `05`:
+- `05`: string parsing, polymer reactions
 - `06`:
 - `07`:
 - `08`:
