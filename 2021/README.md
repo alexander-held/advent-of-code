@@ -4,7 +4,7 @@ Solutions to Advent of Code 2021 puzzles: https://adventofcode.com/2021.
 
 What is each day about?
 - `01`: list parsing, sliding window
-- `02`:
+- `02`: input parsing for submarine navigation
 - `03`:
 - `04`:
 - `05`:
