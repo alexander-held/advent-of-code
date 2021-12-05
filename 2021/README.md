@@ -7,7 +7,7 @@ What is each day about?
 - `02`: input parsing for submarine navigation
 - `03`: counting occurrences in list, binary conversion
 - `04`: 2d grid parsing, bingo game
-- `05`:
+- `05`: 2d grid with overlapping lines
 - `06`:
 - `07`:
 - `08`:
