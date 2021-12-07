@@ -9,7 +9,7 @@ What is each day about?
 - `04`: 2d grid parsing, bingo game
 - `05`: 2d grid with overlapping lines
 - `06`: fish population growth (part 2: scalability of algorithm)
-- `07`:
+- `07`: optimization of crab positions
 - `08`:
 - `09`:
 - `10`:
