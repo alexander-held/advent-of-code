@@ -10,7 +10,7 @@ What is each day about?
 - `05`: 2d grid with overlapping lines
 - `06`: fish population growth (part 2: scalability of algorithm)
 - `07`: optimization of crab positions
-- `08`:
+- `08`: decoding scrambled display patterns
 - `09`:
 - `10`:
 - `11`:
