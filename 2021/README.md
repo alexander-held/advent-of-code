@@ -11,7 +11,7 @@ What is each day about?
 - `06`: fish population growth (part 2: scalability of algorithm)
 - `07`: optimization of crab positions
 - `08`: decoding scrambled display patterns
-- `09`:
+- `09`: segmenting 2d grid
 - `10`:
 - `11`:
 - `12`:
