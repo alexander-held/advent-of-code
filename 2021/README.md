@@ -12,7 +12,7 @@ What is each day about?
 - `07`: optimization of crab positions
 - `08`: decoding scrambled display patterns
 - `09`: segmenting 2d grid
-- `10`:
+- `10`: parsing brackets via stack
 - `11`:
 - `12`:
 - `13`:
