@@ -13,7 +13,7 @@ What is each day about?
 - `08`: decoding scrambled display patterns
 - `09`: segmenting 2d grid
 - `10`: parsing brackets via stack
-- `11`:
+- `11`: cellular automaton with octopuses on grid flashing
 - `12`:
 - `13`:
 - `14`:
