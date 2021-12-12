@@ -14,7 +14,7 @@ What is each day about?
 - `09`: segmenting 2d grid
 - `10`: parsing brackets via stack
 - `11`: cellular automaton with octopuses on grid flashing
-- `12`:
+- `12`: graph traversal, finding all paths satisfying rules
 - `13`:
 - `14`:
 - `15`:
