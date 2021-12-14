@@ -16,7 +16,7 @@ What is each day about?
 - `11`: cellular automaton with octopuses on grid flashing
 - `12`: graph traversal, finding all paths satisfying rules
 - `13`: folding paper, 2d grid of dots revealing letters
-- `14`:
+- `14`: polymer chain, inserting values in list of characters following rules
 - `15`:
 - `16`:
 - `17`:
