@@ -18,7 +18,7 @@ What is each day about?
 - `13`: folding paper, 2d grid of dots revealing letters
 - `14`: polymer chain, inserting values in list of characters following rules
 - `15`:
-- `16`:
+- `16`: decoding stream of data
 - `17`:
 - `18`:
 - `19`:
