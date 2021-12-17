@@ -19,7 +19,7 @@ What is each day about?
 - `14`: polymer chain, inserting values in list of characters following rules
 - `15`:
 - `16`: decoding stream of data
-- `17`:
+- `17`: 2d trajectory to target
 - `18`:
 - `19`:
 - `20`:
