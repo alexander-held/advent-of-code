@@ -21,7 +21,7 @@ What is each day about?
 - `16`: decoding stream of data
 - `17`: 2d trajectory to target
 - `18`: parsing and evaluating nested structure of pairs of numbers
-- `19`:
+- `19`: aligning scanners in 3d space via overlapping detected objects
 - `20`:
 - `21`:
 - `22`:
