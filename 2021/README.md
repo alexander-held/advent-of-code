@@ -20,7 +20,7 @@ What is each day about?
 - `15`:
 - `16`: decoding stream of data
 - `17`: 2d trajectory to target
-- `18`:
+- `18`: parsing and evaluating nested structure of pairs of numbers
 - `19`:
 - `20`:
 - `21`:
