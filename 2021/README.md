@@ -23,7 +23,7 @@ What is each day about?
 - `18`: parsing and evaluating nested structure of pairs of numbers
 - `19`: aligning scanners in 3d space via overlapping detected objects
 - `20`: infinite grid of pixels turning on and off
-- `21`:
+- `21`: two player game happening in many alternate universes
 - `22`:
 - `23`:
 - `24`:
