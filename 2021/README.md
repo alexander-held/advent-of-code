@@ -17,7 +17,7 @@ What is each day about?
 - `12`: graph traversal, finding all paths satisfying rules
 - `13`: folding paper, 2d grid of dots revealing letters
 - `14`: polymer chain, inserting values in list of characters following rules
-- `15`:
+- `15`: lowest cost path through 2d grid
 - `16`: decoding stream of data
 - `17`: 2d trajectory to target
 - `18`: parsing and evaluating nested structure of pairs of numbers
