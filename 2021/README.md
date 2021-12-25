@@ -26,5 +26,5 @@ What is each day about?
 - `21`: two player game happening in many alternate universes
 - `22`:
 - `23`:
-- `24`:
+- `24`: maximum input for which unknown algorithm returns specific value
 - `25`: finding stable state in evolving 2d grid
