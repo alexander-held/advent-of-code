@@ -27,4 +27,4 @@ What is each day about?
 - `22`:
 - `23`:
 - `24`:
-- `25`:
+- `25`: finding stable state in evolving 2d grid
