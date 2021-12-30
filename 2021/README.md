@@ -25,6 +25,6 @@ What is each day about?
 - `20`: infinite grid of pixels turning on and off
 - `21`: two player game happening in many alternate universes
 - `22`:
-- `23`:
+- `23`: minimizing movement cost while organizing amphipods into rooms
 - `24`: maximum input for which unknown algorithm returns specific value
 - `25`: finding stable state in evolving 2d grid
