@@ -24,7 +24,7 @@ What is each day about?
 - `19`: aligning scanners in 3d space via overlapping detected objects
 - `20`: infinite grid of pixels turning on and off
 - `21`: two player game happening in many alternate universes
-- `22`:
+- `22`: overlapping cubes turning on and off
 - `23`: minimizing movement cost while organizing amphipods into rooms
 - `24`: maximum input for which unknown algorithm returns specific value
 - `25`: finding stable state in evolving 2d grid
