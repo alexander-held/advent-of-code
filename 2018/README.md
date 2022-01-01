@@ -9,7 +9,7 @@ What is each day about?
 - `04`: most common time in list of time intervals
 - `05`: string parsing, polymer reactions
 - `06`: Voronoi diagram, splitting 2d grid into regions
-- `07`:
+- `07`: parallel processing of tasks with dependencies
 - `08`:
 - `09`:
 - `10`:
