@@ -8,7 +8,7 @@ What is each day about?
 - `03`: overlapping rectangles in 2d grid
 - `04`: most common time in list of time intervals
 - `05`: string parsing, polymer reactions
-- `06`:
+- `06`: Voronoi diagram, splitting 2d grid into regions
 - `07`:
 - `08`:
 - `09`:
