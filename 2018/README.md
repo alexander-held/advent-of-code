@@ -12,7 +12,7 @@ What is each day about?
 - `07`: parallel processing of tasks with dependencies
 - `08`:
 - `09`: marble game, circle of marbles with updating game states
-- `10`:
+- `10`: extracting message from grid built from points moving in time
 - `11`:
 - `12`:
 - `13`:
