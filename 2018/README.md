@@ -13,7 +13,7 @@ What is each day about?
 - `08`:
 - `09`: marble game, circle of marbles with updating game states
 - `10`: extracting message from grid built from points moving in time
-- `11`:
+- `11`: convolutions over 2d grid
 - `12`:
 - `13`:
 - `14`:
