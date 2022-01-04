@@ -10,7 +10,7 @@ What is each day about?
 - `05`: string parsing, polymer reactions
 - `06`: Voronoi diagram, splitting 2d grid into regions
 - `07`: parallel processing of tasks with dependencies
-- `08`:
+- `08`: parsing stream of data forming tree
 - `09`: marble game, circle of marbles with updating game states
 - `10`: extracting message from grid built from points moving in time
 - `11`: convolutions over 2d grid
