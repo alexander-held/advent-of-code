@@ -11,7 +11,7 @@ What is each day about?
 - `06`: Voronoi diagram, splitting 2d grid into regions
 - `07`: parallel processing of tasks with dependencies
 - `08`:
-- `09`:
+- `09`: marble game, circle of marbles with updating game states
 - `10`:
 - `11`:
 - `12`:
