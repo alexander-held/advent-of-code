@@ -4,8 +4,8 @@ Solutions to Advent of Code 2022 puzzles: https://adventofcode.com/2022.
 
 What is each day about?
 - `01`: list parsing, partial sums
-- `02`:
-- `03`:
+- `02`: rock paper scissors
+- `03`: set intersections
 - `04`:
 - `05`:
 - `06`:
