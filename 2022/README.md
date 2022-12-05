@@ -7,7 +7,7 @@ What is each day about?
 - `02`: rock paper scissors
 - `03`: set intersections
 - `04`: overlap in integer ranges
-- `05`:
+- `05`: moving stacks of crates around
 - `06`:
 - `07`:
 - `08`:
