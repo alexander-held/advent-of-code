@@ -6,7 +6,7 @@ What is each day about?
 - `01`: list parsing, partial sums
 - `02`: rock paper scissors
 - `03`: set intersections
-- `04`:
+- `04`: overlap in integer ranges
 - `05`:
 - `06`:
 - `07`:
