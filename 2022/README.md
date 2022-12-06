@@ -8,7 +8,7 @@ What is each day about?
 - `03`: set intersections
 - `04`: overlap in integer ranges
 - `05`: moving stacks of crates around
-- `06`:
+- `06`: unique characters in sliding string window
 - `07`:
 - `08`:
 - `09`:
