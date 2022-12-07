@@ -9,7 +9,7 @@ What is each day about?
 - `04`: overlap in integer ranges
 - `05`: moving stacks of crates around
 - `06`: unique characters in sliding string window
-- `07`:
+- `07`: filesystem navigation
 - `08`:
 - `09`:
 - `10`:
