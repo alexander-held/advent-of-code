@@ -10,7 +10,7 @@ What is each day about?
 - `05`: moving stacks of crates around
 - `06`: unique characters in sliding string window
 - `07`: filesystem navigation
-- `08`:
+- `08`: obstacles and view distances on 2d grid
 - `09`:
 - `10`:
 - `11`:
