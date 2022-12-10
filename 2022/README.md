@@ -12,7 +12,7 @@ What is each day about?
 - `07`: filesystem navigation
 - `08`: obstacles and view distances on 2d grid
 - `09`: rope simulation in 2d
-- `10`:
+- `10`: CPU summing in cycles and CRT drawing
 - `11`:
 - `12`:
 - `13`:
