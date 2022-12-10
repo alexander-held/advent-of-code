@@ -11,7 +11,7 @@ What is each day about?
 - `06`: unique characters in sliding string window
 - `07`: filesystem navigation
 - `08`: obstacles and view distances on 2d grid
-- `09`:
+- `09`: rope simulation in 2d
 - `10`:
 - `11`:
 - `12`:
