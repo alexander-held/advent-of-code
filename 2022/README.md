@@ -14,7 +14,7 @@ What is each day about?
 - `09`: rope simulation in 2d
 - `10`: CPU summing in cycles and CRT drawing
 - `11`: tracking monkeys throwing items
-- `12`:
+- `12`: 2d grid mountain climbing via BFS
 - `13`:
 - `14`:
 - `15`:
