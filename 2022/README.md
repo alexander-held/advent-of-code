@@ -15,7 +15,7 @@ What is each day about?
 - `10`: CPU summing in cycles and CRT drawing
 - `11`: tracking monkeys throwing items
 - `12`: 2d grid mountain climbing via BFS
-- `13`:
+- `13`: parsing and ordering nested lists
 - `14`:
 - `15`:
 - `16`:
