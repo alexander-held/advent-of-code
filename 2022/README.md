@@ -16,7 +16,7 @@ What is each day about?
 - `11`: tracking monkeys throwing items
 - `12`: 2d grid mountain climbing via BFS
 - `13`: parsing and ordering nested lists
-- `14`:
+- `14`: simulating falling sand in 2d
 - `15`:
 - `16`:
 - `17`:
