@@ -18,7 +18,7 @@ What is each day about?
 - `13`: parsing and ordering nested lists
 - `14`: simulating falling sand in 2d
 - `15`: 2d grid of sensor coverage
-- `16`:
+- `16`: optimizing path through tunnels turning on valves
 - `17`:
 - `18`:
 - `19`:
