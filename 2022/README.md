@@ -20,7 +20,7 @@ What is each day about?
 - `15`: 2d grid of sensor coverage
 - `16`: optimizing path through tunnels turning on valves
 - `17`:
-- `18`:
+- `18`: surface area of structure on 3d grid
 - `19`:
 - `20`:
 - `21`:
