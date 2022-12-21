@@ -23,7 +23,7 @@ What is each day about?
 - `18`: surface area of structure on 3d grid
 - `19`:
 - `20`:
-- `21`:
+- `21`: evaluating equations and root finding
 - `22`:
 - `23`:
 - `24`:
