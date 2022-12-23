@@ -25,6 +25,6 @@ What is each day about?
 - `20`:
 - `21`: evaluating equations and root finding
 - `22`:
-- `23`:
+- `23`: cellular automaton of elves moving
 - `24`:
 - `25`:
