@@ -26,5 +26,5 @@ What is each day about?
 - `21`: evaluating equations and root finding
 - `22`:
 - `23`: cellular automaton of elves moving
-- `24`:
+- `24`: 2d grid navigation avoiding blizzards
 - `25`:
