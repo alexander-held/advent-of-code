@@ -27,4 +27,4 @@ What is each day about?
 - `22`:
 - `23`: cellular automaton of elves moving
 - `24`: 2d grid navigation avoiding blizzards
-- `25`:
+- `25`: translating numeral system
