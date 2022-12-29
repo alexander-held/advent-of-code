@@ -22,7 +22,7 @@ What is each day about?
 - `17`:
 - `18`: surface area of structure on 3d grid
 - `19`:
-- `20`:
+- `20`: mixing circular list
 - `21`: evaluating equations and root finding
 - `22`:
 - `23`: cellular automaton of elves moving
