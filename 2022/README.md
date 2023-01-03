@@ -19,7 +19,7 @@ What is each day about?
 - `14`: simulating falling sand in 2d
 - `15`: 2d grid of sensor coverage
 - `16`: optimizing path through tunnels turning on valves
-- `17`:
+- `17`: Tetris with rocks and cycle detection
 - `18`: surface area of structure on 3d grid
 - `19`:
 - `20`: mixing circular list
