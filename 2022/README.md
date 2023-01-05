@@ -21,7 +21,7 @@ What is each day about?
 - `16`: optimizing path through tunnels turning on valves
 - `17`: Tetris with rocks and cycle detection
 - `18`: surface area of structure on 3d grid
-- `19`:
+- `19`: buying robots to maximize geodes mined
 - `20`: mixing circular list
 - `21`: evaluating equations and root finding
 - `22`:
