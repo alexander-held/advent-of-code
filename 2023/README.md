@@ -6,7 +6,7 @@ What is each day about?
 - `01`: extracting numbers from strings with overlap
 - `02`: game of cubes drawn from bag
 - `03`: adjacency in 2d grid of numbers and symbols
-- `04`:
+- `04`: scratchcard game
 - `05`:
 - `06`:
 - `07`:
