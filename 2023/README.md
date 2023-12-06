@@ -8,7 +8,7 @@ What is each day about?
 - `03`: adjacency in 2d grid of numbers and symbols
 - `04`: scratchcard game
 - `05`:
-- `06`:
+- `06`: ways of winning boat races
 - `07`:
 - `08`:
 - `09`:
