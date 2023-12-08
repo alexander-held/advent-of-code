@@ -9,7 +9,7 @@ What is each day about?
 - `04`: scratchcard game
 - `05`:
 - `06`: ways of winning boat races
-- `07`:
+- `07`: poker-like game
 - `08`:
 - `09`:
 - `10`:
