@@ -7,7 +7,7 @@ What is each day about?
 - `02`: game of cubes drawn from bag
 - `03`: adjacency in 2d grid of numbers and symbols
 - `04`: scratchcard game
-- `05`:
+- `05`: mapping through intervals
 - `06`: ways of winning boat races
 - `07`: poker-like game
 - `08`: simultaneous navigation through network
