@@ -1,1 +1,3 @@
 *.txt
+plots/*png
+plots/*json
