@@ -11,7 +11,7 @@ What is each day about?
 - `06`: ways of winning boat races
 - `07`: poker-like game
 - `08`: simultaneous navigation through network
-- `09`:
+- `09`: extrapolate differences of sequences
 - `10`:
 - `11`:
 - `12`:
