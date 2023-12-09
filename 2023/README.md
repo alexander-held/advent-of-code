@@ -10,7 +10,7 @@ What is each day about?
 - `05`:
 - `06`: ways of winning boat races
 - `07`: poker-like game
-- `08`:
+- `08`: simultaneous navigation through network
 - `09`:
 - `10`:
 - `11`:
