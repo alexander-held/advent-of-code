@@ -13,7 +13,7 @@ What is each day about?
 - `08`: simultaneous navigation through network
 - `09`: extrapolate differences of sequences
 - `10`: 2d network of connected pipes enclosing area
-- `11`:
+- `11`: distances between galaxies on expanding 2d map
 - `12`:
 - `13`:
 - `14`:
