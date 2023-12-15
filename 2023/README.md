@@ -17,7 +17,7 @@ What is each day about?
 - `12`:
 - `13`:
 - `14`:
-- `15`:
+- `15`: hashmap for lenses in boxes
 - `16`:
 - `17`:
 - `18`:
