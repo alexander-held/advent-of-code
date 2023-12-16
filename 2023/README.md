@@ -18,7 +18,7 @@ What is each day about?
 - `13`:
 - `14`:
 - `15`: hashmap for lenses in boxes
-- `16`:
+- `16`: beam of light navigating 2d grid
 - `17`:
 - `18`:
 - `19`:
