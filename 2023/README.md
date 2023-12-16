@@ -15,7 +15,7 @@ What is each day about?
 - `10`: 2d network of connected pipes enclosing area
 - `11`: distances between galaxies on expanding 2d map
 - `12`: nonogram, recursion & memoization
-- `13`:
+- `13`: symmetries in 2d grid
 - `14`:
 - `15`: hashmap for lenses in boxes
 - `16`: beam of light navigating 2d grid
