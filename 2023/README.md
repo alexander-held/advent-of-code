@@ -14,7 +14,7 @@ What is each day about?
 - `09`: extrapolate differences of sequences
 - `10`: 2d network of connected pipes enclosing area
 - `11`: distances between galaxies on expanding 2d map
-- `12`:
+- `12`: nonogram, recursion & memoization
 - `13`:
 - `14`:
 - `15`: hashmap for lenses in boxes
