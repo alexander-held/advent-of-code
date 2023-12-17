@@ -16,7 +16,7 @@ What is each day about?
 - `11`: distances between galaxies on expanding 2d map
 - `12`: nonogram, recursion & memoization
 - `13`: symmetries in 2d grid
-- `14`:
+- `14`: rocks rolling across 2d grid with obstacles
 - `15`: hashmap for lenses in boxes
 - `16`: beam of light navigating 2d grid
 - `17`: optimal path through 2d grid with rules for turning
