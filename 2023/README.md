@@ -20,7 +20,7 @@ What is each day about?
 - `15`: hashmap for lenses in boxes
 - `16`: beam of light navigating 2d grid
 - `17`: optimal path through 2d grid with rules for turning
-- `18`:
+- `18`: area enclosed within border in 2d grid
 - `19`:
 - `20`:
 - `21`:
