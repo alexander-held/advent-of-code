@@ -21,7 +21,7 @@ What is each day about?
 - `16`: beam of light navigating 2d grid
 - `17`: optimal path through 2d grid with rules for turning
 - `18`: area enclosed within border in 2d grid
-- `19`:
+- `19`: parsing tree of rules to accept/reject parts
 - `20`:
 - `21`:
 - `22`:
