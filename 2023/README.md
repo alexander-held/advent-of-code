@@ -24,7 +24,7 @@ What is each day about?
 - `19`: parsing tree of rules to accept/reject parts
 - `20`:
 - `21`:
-- `22`:
+- `22`: bricks falling and stacking in 3d space
 - `23`:
 - `24`:
 - `25`:
