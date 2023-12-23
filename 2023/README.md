@@ -25,6 +25,6 @@ What is each day about?
 - `20`:
 - `21`:
 - `22`: bricks falling and stacking in 3d space
-- `23`:
+- `23`: length of paths in 2d map
 - `24`:
 - `25`:
