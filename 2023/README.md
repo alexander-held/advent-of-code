@@ -26,5 +26,5 @@ What is each day about?
 - `21`:
 - `22`: bricks falling and stacking in 3d space
 - `23`: length of paths in 2d map
-- `24`:
+- `24`: collisions of hailstones in 3d space
 - `25`:
