@@ -23,7 +23,7 @@ What is each day about?
 - `18`: area enclosed within border in 2d grid
 - `19`: parsing tree of rules to accept/reject parts
 - `20`: signal propagation through grid of modules
-- `21`:
+- `21`: reachable positions after steps in 2d grid
 - `22`: bricks falling and stacking in 3d space
 - `23`: length of paths in 2d map
 - `24`: collisions of hailstones in 3d space
