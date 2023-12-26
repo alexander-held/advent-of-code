@@ -16,7 +16,7 @@ What is each day about?
 - `11`: convolutions over 2d grid
 - `12`: 1d cellular automaton
 - `13`: simulating mine cart crashes on 2d tracks
-- `14`:
+- `14`: hot chocolate recipes, finding patterns in list
 - `15`:
 - `16`:
 - `17`:
