@@ -24,7 +24,7 @@ What is each day about?
 - `19`: buying robots to maximize geodes mined
 - `20`: mixing circular list
 - `21`: evaluating equations and root finding
-- `22`:
+- `22`: navigating cube surface
 - `23`: cellular automaton of elves moving
 - `24`: 2d grid navigation avoiding blizzards
 - `25`: translating numeral system
