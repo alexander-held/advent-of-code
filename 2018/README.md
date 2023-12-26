@@ -15,7 +15,7 @@ What is each day about?
 - `10`: extracting message from grid built from points moving in time
 - `11`: convolutions over 2d grid
 - `12`: 1d cellular automaton
-- `13`:
+- `13`: simulating mine cart crashes on 2d tracks
 - `14`:
 - `15`:
 - `16`:
