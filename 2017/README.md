@@ -5,7 +5,7 @@ Solutions to Advent of Code 2017 puzzles: https://adventofcode.com/2017.
 What is each day about?
 - `01`: captcha from list element comparisons
 - `02`: checksums comparing integers in lists
-- `03`:
+- `03`: numbers arranged in spiral
 - `04`:
 - `05`:
 - `06`:
