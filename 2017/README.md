@@ -6,7 +6,7 @@ What is each day about?
 - `01`: captcha from list element comparisons
 - `02`: checksums comparing integers in lists
 - `03`: numbers arranged in spiral
-- `04`:
+- `04`: passphrase validation
 - `05`:
 - `06`:
 - `07`:
