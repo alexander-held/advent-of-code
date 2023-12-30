@@ -7,7 +7,7 @@ What is each day about?
 - `02`: checksums comparing integers in lists
 - `03`: numbers arranged in spiral
 - `04`: passphrase validation
-- `05`:
+- `05`: jumping through list until out of bounds
 - `06`:
 - `07`:
 - `08`:
