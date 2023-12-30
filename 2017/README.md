@@ -8,7 +8,7 @@ What is each day about?
 - `03`: numbers arranged in spiral
 - `04`: passphrase validation
 - `05`: jumping through list until out of bounds
-- `06`:
+- `06`: block redistribution and cycle detection
 - `07`:
 - `08`:
 - `09`:
