@@ -10,7 +10,7 @@ What is each day about?
 - `05`: jumping through list until out of bounds
 - `06`: block redistribution and cycle detection
 - `07`: topological sorting and weight imbalance in tree
-- `08`:
+- `08`: processing instructions for registers
 - `09`:
 - `10`:
 - `11`:
