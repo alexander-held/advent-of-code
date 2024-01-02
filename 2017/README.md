@@ -9,7 +9,7 @@ What is each day about?
 - `04`: passphrase validation
 - `05`: jumping through list until out of bounds
 - `06`: block redistribution and cycle detection
-- `07`:
+- `07`: topological sorting and weight imbalance in tree
 - `08`:
 - `09`:
 - `10`:
