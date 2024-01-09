@@ -12,7 +12,7 @@ What is each day about?
 - `07`: topological sorting and weight imbalance in tree
 - `08`: processing instructions for registers
 - `09`: parsing stream of characters with nested groups
-- `10`:
+- `10`: hash via simulating knot-tying
 - `11`:
 - `12`:
 - `13`:
