@@ -13,7 +13,7 @@ What is each day about?
 - `08`: processing instructions for registers
 - `09`: parsing stream of characters with nested groups
 - `10`: hash via simulating knot-tying
-- `11`:
+- `11`: hex grid navigation
 - `12`:
 - `13`:
 - `14`:
