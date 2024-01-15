@@ -14,7 +14,7 @@ What is each day about?
 - `09`: parsing stream of characters with nested groups
 - `10`: hash via simulating knot-tying
 - `11`: hex grid navigation
-- `12`:
+- `12`: connected components in graph
 - `13`:
 - `14`:
 - `15`:
