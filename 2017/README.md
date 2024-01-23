@@ -15,7 +15,7 @@ What is each day about?
 - `10`: hash via simulating knot-tying
 - `11`: hex grid navigation
 - `12`: connected components in graph
-- `13`:
+- `13`: detection of package passing moving scanners
 - `14`:
 - `15`:
 - `16`:
