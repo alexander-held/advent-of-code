@@ -8,8 +8,8 @@ from collections import Counter, defaultdict, deque
 from copy import deepcopy
 from functools import cache, cmp_to_key, reduce
 from itertools import accumulate, combinations, count, cycle, permutations, product
-from math import inf, lcm, prod
-from operator import eq, gt, lt
+from math import ceil, floor, inf, lcm, prod
+from operator import eq, ge, gt, le, lt, ne
 
 import numpy as np
 
