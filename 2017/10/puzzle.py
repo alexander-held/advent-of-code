@@ -30,4 +30,4 @@ print(f"part 1: {num_list[0]*num_list[1]}")
 
 sparse_hash = knot_hash([ord(v) for v in x] + [17, 31, 73, 47, 23], num_rounds=64)
 batches = [reduce(xor, sparse_hash[i * 16 : (i + 1) * 16]) for i in range(16)]
-print(f"part 2: {''.join(f'{v:x}' for v in batches)}")
+print(f"part 2: {''.join(f'{v:>02x}' for v in batches)}")
