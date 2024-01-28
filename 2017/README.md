@@ -17,7 +17,7 @@ What is each day about?
 - `12`: connected components in graph
 - `13`: detection of package passing moving scanners
 - `14`: connected regions in grid from knot hash
-- `15`:
+- `15`: comparing numbers from generators
 - `16`:
 - `17`:
 - `18`:
