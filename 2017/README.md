@@ -19,7 +19,7 @@ What is each day about?
 - `14`: connected regions in grid from knot hash
 - `15`: comparing numbers from generators
 - `16`: permutations of lists of programs
-- `17`:
+- `17`: circular growing buffer
 - `18`:
 - `19`:
 - `20`:
