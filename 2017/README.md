@@ -18,7 +18,7 @@ What is each day about?
 - `13`: detection of package passing moving scanners
 - `14`: connected regions in grid from knot hash
 - `15`: comparing numbers from generators
-- `16`:
+- `16`: permutations of lists of programs
 - `17`:
 - `18`:
 - `19`:
