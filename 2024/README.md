@@ -5,7 +5,7 @@ Solutions to Advent of Code 2024 puzzles: https://adventofcode.com/2024.
 What is each day about?
 - `01`: math with two sorted lists
 - `02`: rule checking on lists
-- `03`:
+- `03`: parsing instructions from string
 - `04`:
 - `05`:
 - `06`:
