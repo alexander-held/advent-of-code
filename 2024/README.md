@@ -6,7 +6,7 @@ What is each day about?
 - `01`: math with two sorted lists
 - `02`: rule checking on lists
 - `03`: parsing instructions from string
-- `04`:
+- `04`: finding words in 2d grid
 - `05`:
 - `06`:
 - `07`:
