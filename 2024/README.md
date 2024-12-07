@@ -8,8 +8,8 @@ What is each day about?
 - `03`: parsing instructions from string
 - `04`: finding words in 2d grid
 - `05`: sorting numbers based on custom rules
-- `06`:
-- `07`:
+- `06`: 2d grid navigation and loop detection
+- `07`: inserting operators to solve equations
 - `08`:
 - `09`:
 - `10`:
