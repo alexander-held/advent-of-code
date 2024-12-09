@@ -10,8 +10,8 @@ What is each day about?
 - `05`: sorting numbers based on custom rules
 - `06`: 2d grid navigation and loop detection
 - `07`: inserting operators to solve equations
-- `08`:
-- `09`:
+- `08`: interference with antennas in 2d grid
+- `09`: defragmentation of disk
 - `10`:
 - `11`:
 - `12`:
