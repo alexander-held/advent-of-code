@@ -12,7 +12,7 @@ What is each day about?
 - `07`: inserting operators to solve equations
 - `08`: interference with antennas in 2d grid
 - `09`: defragmentation of disk
-- `10`:
+- `10`: hiking trails through 2d grid
 - `11`:
 - `12`:
 - `13`:
