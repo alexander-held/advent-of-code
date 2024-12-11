@@ -13,7 +13,7 @@ What is each day about?
 - `08`: interference with antennas in 2d grid
 - `09`: defragmentation of disk
 - `10`: hiking trails through 2d grid
-- `11`:
+- `11`: state transitions for list of stones
 - `12`:
 - `13`:
 - `14`:
