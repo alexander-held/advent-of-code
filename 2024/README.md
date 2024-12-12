@@ -14,7 +14,7 @@ What is each day about?
 - `09`: defragmentation of disk
 - `10`: hiking trails through 2d grid
 - `11`: state transitions for list of stones
-- `12`:
+- `12`: areas, perimeter and sides in 2d grid
 - `13`:
 - `14`:
 - `15`:
