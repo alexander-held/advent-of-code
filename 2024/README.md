@@ -17,7 +17,7 @@ What is each day about?
 - `12`: areas, perimeter and sides in 2d grid
 - `13`: system of 2 linear equations
 - `14`: robots moving in 2d grid forming image
-- `15`:
+- `15`: robots pushing boxes in 2d grid
 - `16`:
 - `17`:
 - `18`:
