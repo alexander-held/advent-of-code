@@ -19,7 +19,7 @@ What is each day about?
 - `14`: robots moving in 2d grid forming image
 - `15`: robots pushing boxes in 2d grid
 - `16`: best paths through 2d maze
-- `17`:
+- `17`: find input to program that causes program to output itself
 - `18`:
 - `19`:
 - `20`:
