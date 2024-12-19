@@ -21,7 +21,7 @@ What is each day about?
 - `16`: best paths through 2d maze
 - `17`: find input to program that causes program to output itself
 - `18`: 2d maze pathfinding
-- `19`:
+- `19`: construct longer string from short strings
 - `20`:
 - `21`:
 - `22`:
