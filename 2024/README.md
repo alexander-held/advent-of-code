@@ -23,7 +23,7 @@ What is each day about?
 - `18`: 2d maze pathfinding
 - `19`: construct longer string from short strings
 - `20`: 2d maze pathfinding with temporary cheating
-- `21`:
+- `21`: sequence of robots steering each other
 - `22`:
 - `23`:
 - `24`:
