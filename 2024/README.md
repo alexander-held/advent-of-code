@@ -24,7 +24,7 @@ What is each day about?
 - `19`: construct longer string from short strings
 - `20`: 2d maze pathfinding with temporary cheating
 - `21`: sequence of robots steering each other
-- `22`:
+- `22`: optimizing banana sales timing
 - `23`:
 - `24`:
 - `25`:
