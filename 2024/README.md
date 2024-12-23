@@ -25,6 +25,6 @@ What is each day about?
 - `20`: 2d maze pathfinding with temporary cheating
 - `21`: sequence of robots steering each other
 - `22`: optimizing banana sales timing
-- `23`:
+- `23`: cliques in graph
 - `24`:
 - `25`:
