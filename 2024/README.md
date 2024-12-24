@@ -26,5 +26,5 @@ What is each day about?
 - `21`: sequence of robots steering each other
 - `22`: optimizing banana sales timing
 - `23`: cliques in graph
-- `24`:
+- `24`: fixing binary adder circuit
 - `25`:
