@@ -27,4 +27,4 @@ What is each day about?
 - `22`: optimizing banana sales timing
 - `23`: cliques in graph
 - `24`: fixing binary adder circuit
-- `25`:
+- `25`: matching locks and keys
