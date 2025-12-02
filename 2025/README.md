@@ -4,7 +4,7 @@ Solutions to Advent of Code 2025 puzzles: https://adventofcode.com/2025.
 
 What is each day about?
 - `01`: navigation on a circle
-- `02`:
+- `02`: repeating patterns in sequence of digits
 - `03`:
 - `04`:
 - `05`:
