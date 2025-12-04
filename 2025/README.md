@@ -6,7 +6,7 @@ What is each day about?
 - `01`: navigation on a circle
 - `02`: repeating patterns in sequence of digits
 - `03`: largest number from sequence
-- `04`:
+- `04`: neighbors in 2d grid
 - `05`:
 - `06`:
 - `07`:
