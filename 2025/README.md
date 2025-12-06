@@ -8,7 +8,7 @@ What is each day about?
 - `03`: largest number from sequence
 - `04`: neighbors in 2d grid
 - `05`: overlapping ranges of numbers
-- `06`:
+- `06`: number parsing with whitespace information
 - `07`:
 - `08`:
 - `09`:
