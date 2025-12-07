@@ -9,7 +9,7 @@ What is each day about?
 - `04`: neighbors in 2d grid
 - `05`: overlapping ranges of numbers
 - `06`: number parsing with whitespace information
-- `07`:
+- `07`: beam splitters on 2d grid
 - `08`:
 - `09`:
 - `10`:
