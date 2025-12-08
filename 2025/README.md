@@ -10,7 +10,7 @@ What is each day about?
 - `05`: overlapping ranges of numbers
 - `06`: number parsing with whitespace information
 - `07`: beam splitters on 2d grid
-- `08`:
+- `08`: merging sets of boxes in 3d space
 - `09`:
 - `10`:
 - `11`:
