@@ -11,7 +11,7 @@ What is each day about?
 - `06`: number parsing with whitespace information
 - `07`: beam splitters on 2d grid
 - `08`: merging sets of boxes in 3d space
-- `09`:
+- `09`: largest rectangles on 2d grid with constraints
 - `10`:
 - `11`:
 - `12`:
